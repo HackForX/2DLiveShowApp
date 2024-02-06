@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "281378934753",
+    "project_id": "thaistocklive",
+    "storage_bucket": "thaistocklive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281378934753:android:52688f5a3eaec475600ca0",
+        "android_client_info": {
+          "package_name": "com.thailive.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJMxY3vIRX0L_78j7fGkNfkkga5R9nkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281378934753:android:959bc71c6034dd3f600ca0",
+        "android_client_info": {
+          "package_name": "com.thaistocklive.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJMxY3vIRX0L_78j7fGkNfkkga5R9nkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281378934753:android:9fee4ef6c102b48d600ca0",
+        "android_client_info": {
+          "package_name": "com.thaistockliveteam.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJMxY3vIRX0L_78j7fGkNfkkga5R9nkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
